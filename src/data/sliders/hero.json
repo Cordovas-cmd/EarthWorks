@@ -1,0 +1,13 @@
+{
+    "items": [
+        {
+            "image": "/img/Ivy-EarthWorks/background.png",
+            "title": "Create the vision You Want Here",
+            "text": "Think Ivy Earthworks for your excavation and general construction needs.",
+            "button": {
+                "label": "Start Consulting",
+                "link": "/contact"
+            }
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "subtitle": "What We Provide",
+    "title": "Exclusive Services",
+    "button": {
+        "label": "View All Services",
+        "link": "/services"
+    },
+    "items": [
+        {
+            "icon": "/img/serv-i-1.svg",
+            "title": "Excavation",
+            "text": "Designing and Building The Most Beautiful Custom Homes.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": "/img/serv-i-2.svg",
+            "title": "Utility Trenching",
+            "text": "Designing and Building The Most Beautiful Custom Homes.",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": "/img/serv-i-3.svg",
+            "title": "Emergency Utility Repair",
+            "text": "Designing and Building The Most Beautiful Custom Homes.",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": "/img/serv-i-4.svg",
+            "title": "Demolition",
+            "text": "Designing and Building The Most Beautiful Custom Homes.",
+            "link": "/services/service-3"
+        },
+        {
+            "icon": "/img/serv-i-5.svg",
+            "title": "Rentals",
+            "text": "Designing and Building The Most Beautiful Custom Homes.",
+            "link": "/services/service-3"
+        }
+    ]
+}

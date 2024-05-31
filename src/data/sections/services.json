@@ -1,0 +1,34 @@
+{
+    "items": [
+        {
+            "icon": {
+                "light": "/images/icon-1.svg",
+                "dark": "/images/1-icon.png",
+                "alt": "icon"
+            },
+            "title": "Core Planning",
+            "text": "We take the time to plan our approach ensuring efficient, quality work.",
+            "link": "/services/service-1"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-2.svg",
+                "dark": "/images/2-icon.png",
+                "alt": "icon"
+            },
+            "title": "Traditional Workmanship",
+            "text": "We take pride in our craft.You too will proud of the results for years to come.",
+            "link": "/services/service-2"
+        },
+        {
+            "icon": {
+                "light": "/images/icon-3.svg",
+                "dark": "/images/3-icon.png",
+                "alt": "icon"
+            },
+            "title": "Quality Materials",
+            "text": "Investing in our equipment, materials, and tools, means less downtime. Rest easy knowing we've got you covered.",
+            "link": "/services/service-3"
+        }
+    ]
+}
